@@ -47,7 +47,7 @@ const Navbar = () => {
 
   const navItems = [
     { name: 'Home', path: '/' },
-    { name: 'Our Flavors', path: '/flavors' },
+   
     { name: 'About us', path: '/about' },
     { name: 'Blog', path: '/blog' },
     { name: 'Shop', path: '/shop' },
@@ -73,9 +73,9 @@ const Navbar = () => {
               transition={{ type: "spring", stiffness: 400, damping: 10 }}
             >
               <img
-                src="/path-to-your-logo.png"
-                alt="Milmaa"
-                className="h-12"
+                src="https://res.cloudinary.com/defsu5bfc/image/upload/v1732562342/logo_n0jrzf.png"
+                alt="Arokya Dairy"
+                className="h-32"
               />
             </motion.div>
           </Link>

@@ -37,9 +37,9 @@ const Sidebar = ({ mobile }) => {
       {/* Logo */}
       <div className="flex items-center justify-start h-16 px-4">
         <img
-          src="/path-to-your-logo.png"
+          src="https://res.cloudinary.com/defsu5bfc/image/upload/v1732562342/logo_n0jrzf.png"
           alt="Logo"
-          className="h-8 w-8 rounded-full"
+          className="h-14 w-14 rounded-full"
         />
         <span className="ml-2 text-white text-lg font-semibold">Milk Dairy</span>
       </div>
